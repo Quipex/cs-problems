@@ -10,15 +10,19 @@
     <packaging>pom</packaging>
 
     <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
         <kotlin.version>1.9.22</kotlin.version>
+        <junit.version>4.13.1</junit.version>
+        <kotlin.code.style>official</kotlin.code.style>
     </properties>
 
     <modules>
         <module>stack/155. Min Stack</module>
         <module>stack/155. Min Stack</module>
         <module>stack/150. Evaluate Reverse Polish Notation</module>
+        <module>stack/22. Generate Parentheses</module>
     </modules>
 
     <dependencies>

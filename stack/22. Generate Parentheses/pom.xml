@@ -10,10 +10,10 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>150_Evaluate_Reverse_Polish_Notation</artifactId>
+    <artifactId>22-generate-parenthesis</artifactId>
     <packaging>jar</packaging>
 
-    <name>leetcode 150_Evaluate_Reverse_Polish_Notation</name>
+    <name>leetcode 22. Generate Parentheses</name>
 
     <dependencies>
         <dependency>
