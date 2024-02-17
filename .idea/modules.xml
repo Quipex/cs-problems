@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/stack/150. Evaluate Reverse Polish Notation/150. Evaluate Reverse Polish Notation.iml" filepath="$PROJECT_DIR$/stack/150. Evaluate Reverse Polish Notation/150. Evaluate Reverse Polish Notation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stack/155. Min Stack/155. Min Stack.iml" filepath="$PROJECT_DIR$/stack/155. Min Stack/155. Min Stack.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/leetcode.iml" filepath="$PROJECT_DIR$/.idea/leetcode.iml" />
     </modules>
   </component>
