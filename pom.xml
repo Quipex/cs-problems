@@ -25,6 +25,7 @@
         <module>stack/22. Generate Parentheses</module>
         <module>stack/739-daily-temperatures</module>
         <module>stack/853-car-fleet</module>
+        <module>stack/84. Largest Rectangle in Histogram</module>
     </modules>
 
     <dependencies>
