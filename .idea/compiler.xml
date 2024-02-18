@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="150. Evaluate Reverse Polish Notation" />
         <module name="22. Generate Parentheses" />
+        <module name="739. Daily Temperatures" />
         <module name="155. Min Stack" />
       </profile>
     </annotationProcessing>
@@ -15,6 +16,7 @@
       <module name="150. Evaluate Reverse Polish Notation" target="17" />
       <module name="155. Min Stack" target="17" />
       <module name="22. Generate Parentheses" target="17" />
+      <module name="739. Daily Temperatures" target="17" />
       <module name="leetcode" target="17" />
       <module name="leetcode-155" target="17" />
     </bytecodeTargetLevel>
