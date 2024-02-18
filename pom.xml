@@ -14,7 +14,7 @@
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
         <kotlin.version>1.9.22</kotlin.version>
-        <junit.version>4.13.1</junit.version>
+        <junit.version>4.13.2</junit.version>
         <kotlin.code.style>official</kotlin.code.style>
     </properties>
 
@@ -24,6 +24,7 @@
         <module>stack/150. Evaluate Reverse Polish Notation</module>
         <module>stack/22. Generate Parentheses</module>
         <module>stack/739-daily-temperatures</module>
+        <module>stack/853-car-fleet</module>
     </modules>
 
     <dependencies>
