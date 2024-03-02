@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="46. Permutations" />
         <module name="853. Car Fleet" />
         <module name="22. Generate Parentheses" />
         <module name="155. Min Stack" />
@@ -21,6 +22,7 @@
       <module name="155. Min Stack" target="17" />
       <module name="22. Generate Parentheses" target="17" />
       <module name="39 Combination Sum" target="17" />
+      <module name="46. Permutations" target="17" />
       <module name="739. Daily Temperatures" target="17" />
       <module name="78-subsets" target="17" />
       <module name="78. Subsets" target="17" />

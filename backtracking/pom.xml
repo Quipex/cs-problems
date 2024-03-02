@@ -16,5 +16,6 @@
     <modules>
         <module>78-subsets</module>
         <module>39-combination-sum</module>
+        <module>46-permutations</module>
     </modules>
 </project>
