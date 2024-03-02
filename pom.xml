@@ -19,13 +19,8 @@
     </properties>
 
     <modules>
-        <module>stack/155. Min Stack</module>
-        <module>stack/155. Min Stack</module>
-        <module>stack/150. Evaluate Reverse Polish Notation</module>
-        <module>stack/22. Generate Parentheses</module>
-        <module>stack/739-daily-temperatures</module>
-        <module>stack/853-car-fleet</module>
-        <module>stack/84. Largest Rectangle in Histogram</module>
+        <module>stack</module>
+        <module>backtracking</module>
     </modules>
 
     <dependencies>

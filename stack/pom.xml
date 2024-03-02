@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <parent>
+        <artifactId>root</artifactId>
+        <groupId>leetcode</groupId>
+        <version>1.0-SNAPSHOT</version>
+        <relativePath>../pom.xml</relativePath>
+    </parent>
+
+    <modelVersion>4.0.0</modelVersion>
+    <artifactId>stack</artifactId>
+
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>155. Min Stack</module>
+        <module>150. Evaluate Reverse Polish Notation</module>
+        <module>22. Generate Parentheses</module>
+        <module>739-daily-temperatures</module>
+        <module>853-car-fleet</module>
+        <module>84. Largest Rectangle in Histogram</module>
+    </modules>
+</project>
