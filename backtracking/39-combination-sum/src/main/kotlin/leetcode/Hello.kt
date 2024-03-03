@@ -14,15 +14,15 @@ class Solution {
         val combination = mutableListOf<Int>()
 
         fun backtracking(candidateIndex: Int, sum: Int) {
-            if (sum > target) {
-                return
-            }
             if (sum == target) {
                 answer.add(combination.toList())
                 return
             }
 
             for (i in candidateIndex until candidates.size) {
+                if (sum + candidates[i] > target) {
+                    continue
+                }
                 combination.add(candidates[i])
                 backtracking(i, sum + candidates[i])
                 combination.removeLast()
