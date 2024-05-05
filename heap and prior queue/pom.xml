@@ -15,5 +15,6 @@
 
     <modules>
         <module>703-Kth-Largest-Element-in-a-Stream</module>
+        <module>1046-last-stone-weight</module>
     </modules>
 </project>
