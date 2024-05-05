@@ -7,11 +7,13 @@
       <module fileurl="file://$PROJECT_DIR$/stack/22. Generate Parentheses/22. Generate Parentheses.iml" filepath="$PROJECT_DIR$/stack/22. Generate Parentheses/22. Generate Parentheses.iml" />
       <module fileurl="file://$PROJECT_DIR$/backtracking/39-combination-sum/39 Combination Sum.iml" filepath="$PROJECT_DIR$/backtracking/39-combination-sum/39 Combination Sum.iml" />
       <module fileurl="file://$PROJECT_DIR$/backtracking/46-permutations/46. Permutations.iml" filepath="$PROJECT_DIR$/backtracking/46-permutations/46. Permutations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heap and prior queue/703-Kth-Largest-Element-in-a-Stream/703. Kth Largest Element in a Stream.iml" filepath="$PROJECT_DIR$/heap and prior queue/703-Kth-Largest-Element-in-a-Stream/703. Kth Largest Element in a Stream.iml" />
       <module fileurl="file://$PROJECT_DIR$/stack/739-daily-temperatures/739. Daily Temperatures.iml" filepath="$PROJECT_DIR$/stack/739-daily-temperatures/739. Daily Temperatures.iml" />
       <module fileurl="file://$PROJECT_DIR$/backtracking/78-subsets/78-subsets.iml" filepath="$PROJECT_DIR$/backtracking/78-subsets/78-subsets.iml" />
       <module fileurl="file://$PROJECT_DIR$/stack/84. Largest Rectangle in Histogram/84. Largest Rectangle in Histogram.iml" filepath="$PROJECT_DIR$/stack/84. Largest Rectangle in Histogram/84. Largest Rectangle in Histogram.iml" />
       <module fileurl="file://$PROJECT_DIR$/stack/853-car-fleet/853. Car Fleet.iml" filepath="$PROJECT_DIR$/stack/853-car-fleet/853. Car Fleet.iml" />
       <module fileurl="file://$PROJECT_DIR$/backtracking/backtracking.iml" filepath="$PROJECT_DIR$/backtracking/backtracking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heap and prior queue/heap-n-priority-queue.iml" filepath="$PROJECT_DIR$/heap and prior queue/heap-n-priority-queue.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/leetcode.iml" filepath="$PROJECT_DIR$/.idea/leetcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/stack/stack.iml" filepath="$PROJECT_DIR$/stack/stack.iml" />
     </modules>

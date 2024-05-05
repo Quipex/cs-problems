@@ -10,6 +10,7 @@
         <module name="853. Car Fleet" />
         <module name="22. Generate Parentheses" />
         <module name="155. Min Stack" />
+        <module name="703. Kth Largest Element in a Stream" />
         <module name="78-subsets" />
         <module name="39 Combination Sum" />
         <module name="150. Evaluate Reverse Polish Notation" />
@@ -23,12 +24,14 @@
       <module name="22. Generate Parentheses" target="17" />
       <module name="39 Combination Sum" target="17" />
       <module name="46. Permutations" target="17" />
+      <module name="703. Kth Largest Element in a Stream" target="17" />
       <module name="739. Daily Temperatures" target="17" />
       <module name="78-subsets" target="17" />
       <module name="78. Subsets" target="17" />
       <module name="84. Largest Rectangle in Histogram" target="17" />
       <module name="853. Car Fleet" target="17" />
       <module name="backtracking" target="17" />
+      <module name="heap-n-priority-queue" target="17" />
       <module name="leetcode" target="17" />
       <module name="leetcode-155" target="17" />
       <module name="stack" target="17" />
