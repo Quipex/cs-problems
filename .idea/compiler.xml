@@ -6,15 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="46. Permutations" />
         <module name="853. Car Fleet" />
-        <module name="22. Generate Parentheses" />
-        <module name="155. Min Stack" />
         <module name="703. Kth Largest Element in a Stream" />
         <module name="78-subsets" />
         <module name="39 Combination Sum" />
-        <module name="1046-last-stone-weight" />
         <module name="150. Evaluate Reverse Polish Notation" />
+        <module name="trees" />
+        <module name="46. Permutations" />
+        <module name="22. Generate Parentheses" />
+        <module name="155. Min Stack" />
+        <module name="1046-last-stone-weight" />
         <module name="739. Daily Temperatures" />
         <module name="84. Largest Rectangle in Histogram" />
         <module name="973-k-closest-to-origin" />
@@ -39,6 +40,7 @@
       <module name="leetcode" target="17" />
       <module name="leetcode-155" target="17" />
       <module name="stack" target="17" />
+      <module name="trees" target="17" />
       <module name="untitled" target="17" />
     </bytecodeTargetLevel>
   </component>
