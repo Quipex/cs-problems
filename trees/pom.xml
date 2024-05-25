@@ -16,5 +16,6 @@
 
     <modules>
         <module>226-invert-binary-tree</module>
+        <module>104. Maximum Depth of Binary Tree</module>
     </modules>
 </project>

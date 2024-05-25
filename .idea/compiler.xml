@@ -13,6 +13,7 @@
         <module name="39 Combination Sum" />
         <module name="150. Evaluate Reverse Polish Notation" />
         <module name="46. Permutations" />
+        <module name="104. Maximum Depth of Binary Tree" />
         <module name="22. Generate Parentheses" />
         <module name="155. Min Stack" />
         <module name="1046-last-stone-weight" />
@@ -22,6 +23,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="104. Maximum Depth of Binary Tree" target="17" />
       <module name="1046-last-stone-weight" target="17" />
       <module name="150. Evaluate Reverse Polish Notation" target="17" />
       <module name="155. Min Stack" target="17" />
