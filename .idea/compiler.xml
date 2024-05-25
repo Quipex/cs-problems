@@ -7,11 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="853. Car Fleet" />
+        <module name="226-invert-binary-tree" />
         <module name="703. Kth Largest Element in a Stream" />
         <module name="78-subsets" />
         <module name="39 Combination Sum" />
         <module name="150. Evaluate Reverse Polish Notation" />
-        <module name="trees" />
         <module name="46. Permutations" />
         <module name="22. Generate Parentheses" />
         <module name="155. Min Stack" />
@@ -26,6 +26,7 @@
       <module name="150. Evaluate Reverse Polish Notation" target="17" />
       <module name="155. Min Stack" target="17" />
       <module name="22. Generate Parentheses" target="17" />
+      <module name="226-invert-binary-tree" target="17" />
       <module name="39 Combination Sum" target="17" />
       <module name="46. Permutations" target="17" />
       <module name="703. Kth Largest Element in a Stream" target="17" />
