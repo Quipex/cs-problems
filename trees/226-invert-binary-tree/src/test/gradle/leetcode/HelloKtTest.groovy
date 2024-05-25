@@ -1,6 +1,7 @@
 package leetcode
 
-
+import leetcode.Solution
+import leetcode.TreeNode
 import spock.lang.Specification
 
 class HelloKtTest extends Specification {
