@@ -27,6 +27,7 @@
         <module>backtracking</module>
         <module>heap and prior queue</module>
         <module>trees</module>
+        <module>dynamic-programming</module>
     </modules>
 
     <dependencies>

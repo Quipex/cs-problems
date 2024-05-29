@@ -20,6 +20,7 @@
         <module name="739. Daily Temperatures" />
         <module name="84. Largest Rectangle in Histogram" />
         <module name="973-k-closest-to-origin" />
+        <module name="dynamic-programming" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -39,6 +40,7 @@
       <module name="853. Car Fleet" target="17" />
       <module name="973-k-closest-to-origin" target="17" />
       <module name="backtracking" target="17" />
+      <module name="dynamic-programming" target="17" />
       <module name="heap-n-priority-queue" target="17" />
       <module name="leetcode" target="17" />
       <module name="leetcode-155" target="17" />
