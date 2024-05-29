@@ -14,6 +14,7 @@
         <module name="39 Combination Sum" />
         <module name="150. Evaluate Reverse Polish Notation" />
         <module name="46. Permutations" />
+        <module name="213-house-robber-ii" />
         <module name="104. Maximum Depth of Binary Tree" />
         <module name="22. Generate Parentheses" />
         <module name="155. Min Stack" />
@@ -29,6 +30,7 @@
       <module name="150. Evaluate Reverse Polish Notation" target="17" />
       <module name="155. Min Stack" target="17" />
       <module name="198-house-robber" target="17" />
+      <module name="213-house-robber-ii" target="17" />
       <module name="22. Generate Parentheses" target="17" />
       <module name="226-invert-binary-tree" target="17" />
       <module name="39 Combination Sum" target="17" />
