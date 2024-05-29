@@ -15,6 +15,7 @@
         <module name="150. Evaluate Reverse Polish Notation" />
         <module name="46. Permutations" />
         <module name="213-house-robber-ii" />
+        <module name="intervals" />
         <module name="104. Maximum Depth of Binary Tree" />
         <module name="22. Generate Parentheses" />
         <module name="155. Min Stack" />
@@ -45,6 +46,7 @@
       <module name="backtracking" target="17" />
       <module name="dynamic-programming" target="17" />
       <module name="heap-n-priority-queue" target="17" />
+      <module name="intervals" target="17" />
       <module name="leetcode" target="17" />
       <module name="leetcode-155" target="17" />
       <module name="stack" target="17" />

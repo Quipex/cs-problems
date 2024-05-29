@@ -28,6 +28,7 @@
         <module>heap and prior queue</module>
         <module>trees</module>
         <module>dynamic-programming</module>
+        <module>intervals</module>
     </modules>
 
     <dependencies>
