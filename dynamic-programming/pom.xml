@@ -12,5 +12,8 @@
     <artifactId>dynamic-programming</artifactId>
 
     <packaging>pom</packaging>
+    <modules>
+        <module>198-house-robber</module>
+    </modules>
 
 </project>
