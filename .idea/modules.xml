@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/invert-binary-tree/226-invert-binary-tree.iml" filepath="$PROJECT_DIR$/invert-binary-tree/226-invert-binary-tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/backtracking/39-combination-sum/39 Combination Sum.iml" filepath="$PROJECT_DIR$/backtracking/39-combination-sum/39 Combination Sum.iml" />
       <module fileurl="file://$PROJECT_DIR$/backtracking/46-permutations/46. Permutations.iml" filepath="$PROJECT_DIR$/backtracking/46-permutations/46. Permutations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intervals/57-insert-interval/57-insert-interval.iml" filepath="$PROJECT_DIR$/intervals/57-insert-interval/57-insert-interval.iml" />
       <module fileurl="file://$PROJECT_DIR$/heap and prior queue/703-Kth-Largest-Element-in-a-Stream/703. Kth Largest Element in a Stream.iml" filepath="$PROJECT_DIR$/heap and prior queue/703-Kth-Largest-Element-in-a-Stream/703. Kth Largest Element in a Stream.iml" />
       <module fileurl="file://$PROJECT_DIR$/stack/739-daily-temperatures/739. Daily Temperatures.iml" filepath="$PROJECT_DIR$/stack/739-daily-temperatures/739. Daily Temperatures.iml" />
       <module fileurl="file://$PROJECT_DIR$/backtracking/78-subsets/78-subsets.iml" filepath="$PROJECT_DIR$/backtracking/78-subsets/78-subsets.iml" />

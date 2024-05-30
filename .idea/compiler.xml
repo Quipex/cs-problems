@@ -15,9 +15,9 @@
         <module name="150. Evaluate Reverse Polish Notation" />
         <module name="46. Permutations" />
         <module name="213-house-robber-ii" />
-        <module name="intervals" />
         <module name="104. Maximum Depth of Binary Tree" />
         <module name="22. Generate Parentheses" />
+        <module name="57-insert-interval" />
         <module name="155. Min Stack" />
         <module name="1046-last-stone-weight" />
         <module name="739. Daily Temperatures" />
@@ -36,6 +36,7 @@
       <module name="226-invert-binary-tree" target="17" />
       <module name="39 Combination Sum" target="17" />
       <module name="46. Permutations" target="17" />
+      <module name="57-insert-interval" target="17" />
       <module name="703. Kth Largest Element in a Stream" target="17" />
       <module name="739. Daily Temperatures" target="17" />
       <module name="78-subsets" target="17" />
