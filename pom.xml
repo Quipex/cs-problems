@@ -29,6 +29,7 @@
         <module>trees</module>
         <module>dynamic-programming</module>
         <module>intervals</module>
+        <module>greedy</module>
     </modules>
 
     <dependencies>
