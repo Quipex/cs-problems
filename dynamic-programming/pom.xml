@@ -15,6 +15,7 @@
     <modules>
         <module>198-house-robber</module>
         <module>213-house-robber-ii</module>
+        <module>322-coin-change</module>
     </modules>
 
 </project>

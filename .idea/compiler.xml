@@ -19,6 +19,7 @@
         <module name="22. Generate Parentheses" />
         <module name="57-insert-interval" />
         <module name="155. Min Stack" />
+        <module name="322-coin-change" />
         <module name="1046-last-stone-weight" />
         <module name="53-max-subarray" />
         <module name="739. Daily Temperatures" />
@@ -35,6 +36,7 @@
       <module name="213-house-robber-ii" target="17" />
       <module name="22. Generate Parentheses" target="17" />
       <module name="226-invert-binary-tree" target="17" />
+      <module name="322-coin-change" target="17" />
       <module name="39 Combination Sum" target="17" />
       <module name="46. Permutations" target="17" />
       <module name="53-max-subarray" target="17" />
